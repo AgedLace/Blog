@@ -8,5 +8,5 @@ categories:
 tags: []
 ---
 
-## Back to [BeNotDeceived.org](https://BeNotDeceived.org)
+## To Go Back To [BeNotDeceived.org](https://BeNotDeceived.org)
 
