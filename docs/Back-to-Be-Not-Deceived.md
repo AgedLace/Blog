@@ -1,5 +1,5 @@
 ---
-title: Back to  BeNotDeceived.org
+title: Back to BeNotDeceived.org
 slug: back-to-bnd
 date: 2024-08-25 04:13:36
 update: 2024-08-25 04:26:40
@@ -8,5 +8,5 @@ categories:
 tags: []
 ---
 
-## [BeNotDeceived.org](https://BeNotDeceived.org)
+## Back to [BeNotDeceived.org](https://BeNotDeceived.org)
 

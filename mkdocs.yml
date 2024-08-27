@@ -3,7 +3,7 @@ site_url: https://benotdeceived.org/Blog/
 site_author: Be Not Deceived
 # site_description:
 copyright: >
-  &copy; 2024 - BeNotDeceived.org
+  &copy; 2024 - <a href="benotdeceived.org">Be Not Deceived</a>
 
 # dev_addr: 127.0.0.1:8666
 
