@@ -8,9 +8,9 @@ categories:
 tags: []
 ---
 
-## Welcome to Be Not Deceived
 
-### Jesus Said, "See to it that no One Deceives You." - Matthew 24:4
+
+## Jesus Said, "See to it that no One Deceives You." - Matthew 24:4
 
 > [!note] **Matthew 24:24**
 > 
@@ -24,6 +24,6 @@ Unless otherwise stated, all Scriptures on this site are taken from the *Berean 
 
 ---
 
-#### Copyright Information
+### Copyright Information
 
 *The Holy Bible, Berean Standard Bible, BSB* is produced in cooperation with *Bible Hub*, *Discovery Bible*, *OpenBible.com*, and the *Berean Bible Translation Committee*. **This text of God's Word has been dedicated to the public domain. Free resources and databases are available at *BereanBible.com***.
