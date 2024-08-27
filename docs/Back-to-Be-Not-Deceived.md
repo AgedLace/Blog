@@ -8,5 +8,5 @@ categories:
 tags: []
 ---
 
-## [BeNotDeceived.org](BeNotDeceived.org)
+## [BeNotDeceived.org](https://BeNotDeceived.org)
 
