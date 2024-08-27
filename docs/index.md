@@ -1,5 +1,5 @@
 ---
-title: index
+title: Home
 slug: home
 date: 2024-08-10 12:58:24
 update: 2024-08-11 09:08:50
