@@ -1,11 +1,11 @@
 ---
-title: Lorem Ipsum
+title: first-post
 slug: lorem-ipsum
 date: 2024-08-10 12:01:26
-update: 2024-08-11 06:53:36
-publish: "true"
-tags: [tag1, tag2]
-categories: cat1, cat2
+update: 2024-09-04 04:29:25
+publish: true
+categories: [cat1, cat2]
+tags: [tag1. tag2]
 ---
 
 "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit…"  
