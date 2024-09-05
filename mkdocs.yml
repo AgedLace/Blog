@@ -8,7 +8,7 @@ copyright: >
 # dev_addr: 127.0.0.1:8666
 
  extra: 
-#   homepage: https://benotdeceived.org/Blog/
+  homepage: https://benotdeceived.org/Blog/
 
 extra_css:
   - assets/stylesheets/publisher.css
