@@ -3,7 +3,7 @@ site_url: https://benotdeceived.org/Blog/
 site_author: Be Not Deceived
 # site_description:
 copyright: >
-  &copy; 2024 - <a href="benotdeceived.org">Be Not Deceived</a>
+  &copy; 2024 - <a href="benotdeceived.org">Be Not Deceived Main Site</a> and <a href="benotdeceived.org/blog">Blog</a>
 
 # dev_addr: 127.0.0.1:8666
 
@@ -56,6 +56,8 @@ theme:
     - navigation.top  # Back to top
     - navigation.sections  # Useful for an overview
     - navigation.indexes  # Needed for an overview
+    - navigation.instant
+    - navigation.prune
     - search.suggest
     - search.highlight
     - search.share
