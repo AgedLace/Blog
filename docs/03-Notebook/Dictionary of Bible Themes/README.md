@@ -1,5 +1,5 @@
 ---
-title: README
+title: Dictionary of Bible Themes
 slug: dobt/0000-toc-copyright
 date: 2024-10-22 09:37:48
 update: 2024-10-22 10:56:11
