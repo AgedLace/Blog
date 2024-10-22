@@ -1,17 +1,17 @@
 ---
 title: Home
 slug: .
-description: "Jesus Said, 'See to it that no ONe Deceives You,' - Matthew 24:4"
 date: 2024-08-25 04:13:36
-update: 2024-09-04 04:45:30
+update: 2024-10-22 10:08:12
 publish: true
 categories: 
-tags:
+tags: []
+description: Jesus Said, 'See to it that no ONe Deceives You,' - Matthew 24:4
 ---
 
 ## Welcome to Be Not Deceived
-### Jesus Said, 'See to it that no One Deceives You.' - Matthew 24:4
 
+### Jesus Said, 'See to it that no One Deceives You.' - Matthew 24:4
 
 > [!note] **Matthew 24:24**
 > 

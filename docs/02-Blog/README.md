@@ -2,9 +2,9 @@
 title: Blog
 slug: blog
 date: 2024-08-10 01:52:54
-update: 2024-09-04 04:40:07
+update: 2024-10-22 09:53:42
 publish: true
 categories: 
+tags: []
 ---
 ---
-
